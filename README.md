@@ -1,5 +1,20 @@
 # 📘 Patch-Based Attacks and Masking Defense for Vision–Language Models
 
+## Team Members
+
+- **Gizem Altintarla**  
+  *gizemaltintarla@arizona.edu*  
+  Department of Electrical and Computer Engineering, University of Arizona
+
+- **Chieh Tsai**  
+  *vegetableclean@arizona.edu*  
+  Department of Electrical and Computer Engineering, University of Arizona
+
+- **Dominic Morlock**  
+  *dmorlock@arizona.edu*  
+  Department of Electrical and Computer Engineering, University of Arizona
+
+
 This repository contains the official implementation of our work:
 
 **“Patch Injection Attacks and Mask-Based Semantic Defense for Vision–Language Models (VLMs)”**  
