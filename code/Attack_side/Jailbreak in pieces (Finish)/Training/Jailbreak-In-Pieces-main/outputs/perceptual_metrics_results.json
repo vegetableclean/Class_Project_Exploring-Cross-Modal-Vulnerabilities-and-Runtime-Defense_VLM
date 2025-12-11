@@ -1,0 +1,8 @@
+{
+  "ssim_target_vs_adv": 0.006756334792361213,
+  "psnr_target_vs_adv": 4.979595432161118,
+  "ssim_seed_vs_adv": 0.008597280782622979,
+  "psnr_seed_vs_adv": 4.966167503353739,
+  "mean_absdiff_target_vs_adv": 0.47780725359916687,
+  "mean_absdiff_seed_vs_adv": 0.4766840636730194
+}

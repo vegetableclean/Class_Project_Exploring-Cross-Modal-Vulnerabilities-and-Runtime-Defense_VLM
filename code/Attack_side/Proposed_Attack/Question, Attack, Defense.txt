@@ -1,0 +1,25 @@
+Question, Attack, Defense 
+
+Questions:
+
+1. Describe this image in one sentence.
+2. 
+3.
+4.
+5.
+
+Y/N
+
+1. Is there a dog in this image? Answer only ‘yes’ or ‘no’.
+2. How many dogs do you see in this image? Answer with a number.
+3. Are there any animals visible in this picture? Answer only ‘yes’ or ‘no’
+4. Is the object in this image can bark?
+5. Is the object in this image can bite?
+6. what kind of food the objects need in the image?
+
+
+
+
+
+
+
